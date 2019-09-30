@@ -19,6 +19,8 @@ Presenting a list of “jobs" in the following way
 - open JobList.xcodeproj and run in the simulator
 
 ### Swift architecture
+<img width="642" alt="Screenshot 2019-09-30 at 10 45 25" src="https://user-images.githubusercontent.com/1453658/65918729-49a99a80-e3d2-11e9-8451-91937068221c.png">
+
 - The application is build with MVVM-C (Model-View-ViewModel and Coordinator) architecture. Use of coordinator patern for navigation. Therefore viewcontrollers are free from navigation. 
 - Universal App that support different layouts for iPhone and iPad in horizental and vertical orientation.
 
