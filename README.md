@@ -1,5 +1,7 @@
 # JobList
-Presenting a list of “jobs" 
+Presenting a list of “jobs" in the following way
+
+![image_preview](https://user-images.githubusercontent.com/1453658/65918624-ff281e00-e3d1-11e9-978f-cd5b33fd9897.png)
 
 ### Api Links
 - https://www.coople.com/resources/api/work-assignments/public-jobs/list?pageNum=0&pageSize=200
